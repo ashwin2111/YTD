@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+}
+
+.app{
+  text-align: center;
+}
+.heading{
+  background-color: #4b9c4f;
+  color: white;
+  padding: 30px;
+}
+.textField{
+  padding:20px;
+  border-radius:10px;
+}
+.textField input{
+  padding: 12px;
+  width: 82%;
+  font-size: 16px;
+  border-radius: 10px;
+}
